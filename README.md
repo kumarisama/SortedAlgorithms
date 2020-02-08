@@ -3,8 +3,7 @@ This contains the Java Coding Challenge project
 # SortedAlgorithms
 This contains the Java Coding Challenge project
 
-To Run, adjust the java path below and copy and paste into a command prompt from the SortedAlgorithms folder. Please make sure that runnableapp.jar exists in the folder.
-
+Download the runnableapp.jar to a folder in your system. To Run, change directory to that folder, adjust the java path in the below command according to your system and copy and paste the below command into a command window. Please make sure that runnableapp.jar exists in the folder where you are running from.
 
 "C:\Program Files\Java\jdk1.8.0_131\jre\bin\java" -classpath runnableapp.jar com.sorting.algorithms.MainSortApp 
 
